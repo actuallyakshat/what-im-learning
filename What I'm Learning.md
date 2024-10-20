@@ -29,3 +29,9 @@ https://www.youtube.com/watch?v=Vx2zPMPvmug
 ### System Design
 https://www.youtube.com/watch?v=i53Gi_K3o7I
 https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
+
+### Drizzle ORM
+https://www.youtube.com/watch?v=7-NZ0MlPpJA
+
+### Hono.js | React Query | Tanstack Form | Tanstack Router | Zod | Tanstack Form
+https://www.youtube.com/watch?v=jXyTIQOfTTk&pp=ygUGaG9ub2pz
