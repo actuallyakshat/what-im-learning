@@ -1,6 +1,6 @@
 # What I'm Learning
 A list of things I am learning currently willing to learn and implement :)
-**Last Updated** : 18th October 2024
+**Last Updated** : 31st October 2024
 ### Graph QL
 https://youtu.be/WtkKwO1viI8?si=AgBa6ItdmVYIZxgp
 ### Apache Kafka
@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=ZJJHm_bd9Zo&t=3897s
 https://www.youtube.com/watch?v=gXmznGEW9vo
 https://www.youtube.com/watch?v=dxPakeBsgl4
 https://www.youtube.com/watch?v=un6ZyFkqFKo&t=1125s&pp=ygUHR28gbGFuZw%3D%3D
-### React Query
+### ~~React Query~~
 https://www.youtube.com/watch?v=r8Dg0KVnfMA&pp=ygULcmVhY3QgcXVlcnk%3D
 ### React Native
 https://www.udemy.com/course/react-native-the-practical-guide/
@@ -29,9 +29,9 @@ https://www.youtube.com/watch?v=Vx2zPMPvmug
 ### System Design
 https://www.youtube.com/watch?v=i53Gi_K3o7I
 https://www.youtube.com/playlist?list=PLA3GkZPtsafZdyC5iucNM_uhqGJ5yFNUM
-
 ### Drizzle ORM
 https://www.youtube.com/watch?v=7-NZ0MlPpJA
-
-### Hono.js | React Query | Tanstack Form | Tanstack Router | Zod | Tanstack Form
+### Design Patterns
+https://www.youtube.com/watch?v=tAuRQs_d9F8
+### ~~Hono.js | React Query | Tanstack Form | Tanstack Router | Zod | Tanstack Form~~
 https://www.youtube.com/watch?v=jXyTIQOfTTk&pp=ygUGaG9ub2pz
